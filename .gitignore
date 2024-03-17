@@ -1,0 +1,4 @@
+/load
+
+#ignore all .txt files
+*.txt
